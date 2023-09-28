@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+### Dhruv here
+I am a highly motivated and curious individual with a strong passion for computer science, data science, and 
+machine learning. I have acquired expertise in data analysis, statistical modelling, and machine learning 
+through internships and independent projects, and I am keen to learn more during my time at the University 
+of Southern California.
+Apart from my love for computers, I am an explorer who wants to try out different things and activities, 
+challenge myself to new tasks and environments, forge new friendships and learn about the new cultures 
+that our world offers.
 
 <!--
 **18dhruvm/18dhruvm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
